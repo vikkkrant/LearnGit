@@ -1,1 +1,2 @@
 hello world this is my first git learning
+hello this is commit local and pushin it to remotely
